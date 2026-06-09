@@ -177,7 +177,10 @@ streamlit run app.py
 
 **Asmita Kabra**
 
-Aspiring Data Scientist | Machine Learning Enthusiast | Full Stack & AI Enthusiast
+🔗 Connect With Me
 
-Live Demo: https://house-price-prediction-bangalore.streamlit.app/
-GitHub: https://github.com/AsmitaKabra
+🌐 Live Demo: https://house-price-prediction-bangalore.streamlit.app/
+
+💻 GitHub: https://github.com/AsmitaKabra
+
+💼 LinkedIn: https://www.linkedin.com/in/asmita-kabra-1a6298342/
