@@ -162,15 +162,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Application Preview
-
-*Add screenshots of your Streamlit application here.*
-
-```markdown
-![Home Page](images/home_page.png)
-```
-
----
 
 ## 🎯 Future Improvements
 
